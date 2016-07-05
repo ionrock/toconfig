@@ -1,0 +1,3 @@
+package: github.com/ionrock/toconfig
+import:
+- package: github.com/codegangsta/cli
